@@ -5,6 +5,7 @@ Learning by doing project to generate cover letter for wellfound jobs using [Cre
 ### Description
 
 Generate cover letter for wellfound jobs using your resume and wellfound job link
+Provide the full path of the PDF file containing your resume, along with the shareable link to the job.
 
 ### Installation
 
