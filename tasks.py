@@ -61,13 +61,14 @@ class WellFoundTasks:
             Proof Read 
             Spelling errors, poor sentence structure must not be there and grammar should be professional.
             Remember if the years of experience of candidate is less than the requirement of job description indicate how the candidate can stand out even with less experience and is suitable for the job
+            The cover letter should be of single paragraph and should be crisp and human written.
             
             {self.__tip_section()}
            
             
         """
             ),
-            expected_output='Full length Cover letter ',
+            expected_output='Cover letter of single paragraph that is in human written style',
             context=context,
             agent=agent,
         )
